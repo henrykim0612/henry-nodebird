@@ -1,0 +1,9 @@
+.idea
+/back/.env
+/front/.next/
+/back/back.iml
+/back/package-lock.json
+/back/node_modules
+/front/front.iml
+/front/package-lock.json
+/front/node_modules
